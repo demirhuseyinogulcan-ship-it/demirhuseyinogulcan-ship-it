@@ -26,11 +26,11 @@ Production sites I build and run. The code is private, the sites are live.
 
 | Project | What it is | Live |
 | --- | --- | --- |
-| [kozalak.lol](https://github.com/demirhuseyinogulcan-ship-it/kozalak.lol) | Launch site for an AI device concept, in English, Japanese and Turkish | [kozalak-ai.pages.dev](https://kozalak-ai.pages.dev) |
-| [feedeep](https://github.com/demirhuseyinogulcan-ship-it/feedeep) | News and analysis platform with MDX content, Supabase reader features and a static demo build | [feedeep.pages.dev](https://feedeep.pages.dev) |
+| [kozalak.lol](https://github.com/demirhuseyinogulcan-ship-it/kozalak.lol) | Launch site for an AI device concept, in English, Japanese and Turkish | [kozalak.lol](https://kozalak.lol) |
+| [feedeep](https://github.com/demirhuseyinogulcan-ship-it/feedeep) | News and analysis platform with MDX content, Supabase reader features and a static demo build | [feedeep.com](https://feedeep.com) |
 | [gamze](https://github.com/demirhuseyinogulcan-ship-it/gamze) | Bilingual site for a tango teacher with a page for every lesson type and neighbourhood | [gamzetango.com](https://gamzetango.com) |
-| [alyabicak](https://github.com/demirhuseyinogulcan-ship-it/alyabicak) | Product catalogue for an industrial blade supplier | [alyabicak.vercel.app](https://alyabicak.vercel.app) |
-| [nejdet-boya](https://github.com/demirhuseyinogulcan-ship-it/nejdet-boya) | Template one-page site for a local tradesman, built for calls and local search | [nejdet-boya.pages.dev](https://nejdet-boya.pages.dev) |
+| [alyabicak](https://github.com/demirhuseyinogulcan-ship-it/alyabicak) | Product catalogue for an industrial blade supplier, in five languages | [alya.demo.commitius.com](https://alya.demo.commitius.com) |
+| [nejdet-boya](https://github.com/demirhuseyinogulcan-ship-it/nejdet-boya) | Template one-page site for a local tradesman, built for calls and local search | [nejdet.demo.commitius.com](https://nejdet.demo.commitius.com) |
 
 ## Contact
 
