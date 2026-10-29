@@ -12,6 +12,16 @@ Day to day I run an Odoo ERP with Medusa and Next.js storefronts for an industri
 - **Web:** TypeScript, React, Tailwind CSS, PostgreSQL, SEO and Core Web Vitals
 - **Mobile:** Flutter
 
+## Live work
+
+Production sites I build and run. The code is private, the sites are live.
+
+| Site | What it is | Stack |
+| --- | --- | --- |
+| [aslrulman.com](https://aslrulman.com) | E-commerce for an industrial bearing supplier in four languages, wired to the ERP | Next.js, Medusa, Odoo |
+| [rulman.shop](https://rulman.shop) | Second store on the same commerce core for lubrication and maintenance products, connected to Google Merchant Center | Next.js, Medusa, Odoo |
+| [rulman.store](https://rulman.store) | Test store where new commerce features are tried before they reach the live stores | Next.js, Medusa |
+
 ## Public projects
 
 | Project | What it is | Live |
